@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="84px" height="70px" viewBox="0 0 84 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>widget-imagezoom</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Goods" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="05-Widgets/Goods/Goods-button-2" sketch:type="MSArtboardGroup" transform="translate(-604.000000, -355.000000)" fill="#8DA8B8">
+            <g id="widget-imagezoom" sketch:type="MSLayerGroup" transform="translate(604.000000, 355.000000)">
+                <path d="M77,0 L7,0 C3.1955,0 0,3.5245 0,7 L0,63 C0,66.6435 3.465,70 7,70 L77,70 C80.591,70 84,66.829 84,63 L84,7 C84,3.2515 80.4195,0 77,0 L77,0 Z M77,59.5 C77,61.432 75.432,63 73.5,63 L10.5,63 C8.568,63 7,61.432 7,59.5 L7,10.5 C7,8.568 8.568,7 10.5,7 L73.5,7 C75.432,7 77,8.568 77,10.5 L77,59.5 L77,59.5 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+                <path d="M35,49 L28,38.5 L17.5,56 L66.5,56 L49,24.5 L35,49 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+                <circle id="Oval" sketch:type="MSShapeGroup" cx="24.5" cy="21" r="7"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

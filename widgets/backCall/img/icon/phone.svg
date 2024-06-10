@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="28px" height="30px" viewBox="0 0 28 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>phone</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Callback" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="05-Widgets/Callback/Callback---Animation-preview" sketch:type="MSArtboardGroup" transform="translate(-914.000000, -705.000000)" fill="#FFFFFF">
+            <g id="Canvas" sketch:type="MSLayerGroup" transform="translate(280.000000, 72.000000)">
+                <g id="Size-+-84x84-Widget-Callback-green" transform="translate(611.000000, 611.000000)" sketch:type="MSShapeGroup">
+                    <g id="84x84-Widget-Callback-green">
+                        <path d="M23.9418969,44.5852816 L26.9673153,41.337977 C28.2187535,39.9955654 30.3288914,39.9201241 31.6713029,41.1715623 L32.4834064,41.9281943 C33.2910722,42.6803885 35.5099343,41.9337415 38.644077,38.5699466 C41.7782196,35.2061517 42.3651087,32.9395841 41.5585523,32.1873898 L40.7464488,31.4318673 C39.4040372,30.1804291 39.3285959,28.0714007 40.5800341,26.7278797 L43.6054526,23.4805751 C44.8568908,22.1370541 46.9670286,22.0627222 48.3094401,23.3141604 L49.1204342,24.0696829 C52.7626963,27.462323 50.2997594,35.8241047 43.5144792,43.1075195 C36.729199,50.3898248 28.5626772,53.4385413 24.9204151,50.0459012 L24.1083116,49.2892692 C22.7659,48.037831 22.6915681,45.9276932 23.9418969,44.5852816 L23.9418969,44.5852816 Z" id="phone"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

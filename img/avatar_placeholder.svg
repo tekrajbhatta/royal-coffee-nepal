@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>user</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="User" transform="translate(-1079.000000, -571.000000)">
+            <g id="user" transform="translate(1079.000000, 571.000000)">
+                <rect id="Rectangle" fill="#DBDBDB" x="0" y="0" width="140" height="140"></rect>
+                <g id="Icn_user" transform="translate(47.000000, 47.000000)">
+                    <rect id="Rectangle-7" x="0" y="0" width="46" height="46"></rect>
+                    <path d="M44,35.9580958 C44,31.8727294 39.0206951,25.8784082 31.87443,23 C29.6394879,25.8310787 26.7099293,27.789587 23.5,27.789587 C20.2904608,27.789587 17.3617937,25.8310787 15.1251799,23 C7.980698,25.8784082 3,31.8727294 3,35.9580958 C3,41.5052451 12.1776508,46 23.5005293,46 C34.8237423,46 44,41.5052451 44,35.9580958 Z M23.4998711,23.8518519 C29.1608473,23.8518519 33.75,15.9955687 33.75,10.3052139 C33.75,4.61442786 29.1608473,0 23.4998711,0 C17.8391527,0 13.25,4.61307978 13.25,10.3052139 C13.25,15.9971865 17.8391527,23.8518519 23.4998711,23.8518519 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

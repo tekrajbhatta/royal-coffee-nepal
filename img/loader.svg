@@ -1,0 +1,17 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+   width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<path opacity="0.2" fill="#338FFF" d="M16,4c6.6,0,12,5.4,12,12s-5.4,12-12,12S4,22.6,4,16S9.4,4,16,4 M16,0C7.2,0,0,7.2,0,16
+  s7.2,16,16,16s16-7.2,16-16S24.8,0,16,0L16,0z"/>
+<g>
+  <path fill="#338FFF" d="M23.3,6.5l2.3-3.3C23,1.2,19.6,0,16,0v4C18.8,4,21.3,4.9,23.3,6.5z">
+    <animateTransform attributeType="xml"
+      attributeName="transform"
+      type="rotate"
+      from="0 16 16"
+      to="360 16 16"
+      dur="0.5s"
+      repeatCount="indefinite"/>
+  </path>
+</g>
+</svg>
+

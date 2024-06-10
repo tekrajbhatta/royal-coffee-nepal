@@ -1,0 +1,13 @@
+.ul-scroll-animate[data-animation-type="fade"] {
+  opacity: 0;
+}
+.ul-scroll-animate[data-animation-type="fade"][data-was-animated="true"] {
+  opacity: 1 !important;
+  -webkit-transition-property: opacity;
+  transition-property: opacity;
+  -webkit-transition-duration: 0.5s;
+  transition-duration: 0.5s;
+  -webkit-transition-timing-function: cubic-bezier(0.23, 1, 0.32, 1);
+  transition-timing-function: cubic-bezier(0.23, 1, 0.32, 1);
+  transition-timing-function: linear;
+}
